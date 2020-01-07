@@ -19,6 +19,7 @@ A curated list of awesome reversing resources
     - [Scripting](#scripting)
     - [Android](#android)
     - [Yara](#yara)
+    - [Sites](#sites)
 
 - - -
 
@@ -249,6 +250,8 @@ A curated list of awesome reversing resources
 * [Yara First Presentation](https://www.first.org/resources/papers/conference2014/first_2014_-_schuster-_andreas_-_yara_basic_and_advanced_20140619.pdf)
 
 ## Sites
+
+*Other Web Resources*
 
 * [StackExchange - ReverseEngineering](http://reverseengineering.stackexchange.com/)
 * [Reddit - ReverseEngineering](https://www.reddit.com/r/ReverseEngineering/)
