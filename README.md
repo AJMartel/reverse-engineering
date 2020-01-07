@@ -1,4 +1,4 @@
-## Reverse Engineering resources  
+## Software Reverse Engineering resources  
 [![Awesome](https://2.bp.blogspot.com/-nz0jFFFA4Hc/WHubiaz8ecI/AAAAAAAAB08/g2erX6roVBYCfwWjIGUOBYMkcB7ghRL2wCLcB/s1600/reverse%2Bengineering.png)](http://kalitut.com)
 A curated list of awesome reversing resources   
 
