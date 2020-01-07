@@ -51,6 +51,7 @@ A curated list of awesome reversing resources
 *Reverse Engineering Courses*
 
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [xorpd's ReversingHero](https://www.reversinghero.com)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
 * [Dr. Fu's Malware Analysis](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
 * [Binary Auditing Course](http://www.binary-auditing.com/)
@@ -69,13 +70,13 @@ A curated list of awesome reversing resources
 
 *Practice Reverse Engineering.  Be careful with malware.*
 
-* [Crackmes.de](http://www.crackmes.de/)
+* [Crackmes.one](https://crackmes.one/)
 * [OSX Crackmes](https://reverse.put.as/crackmes/)
 * [ESET Challenges](http://www.joineset.com/jobs-analyst.html)
 * [Flare-on Challenges](http://flare-on.com/)
 * [Github CTF Archives](http://github.com/ctfs/)
 * [Reverse Engineering Challenges](http://challenges.re/)
-* [xorpd Advanced Assembly Exercises](http://www.xorpd.net/pages/xchg_rax/snip_00.html)
+* [xorpd Advanced Assembly Exercises](https://www.xorpd.net/pages/xchg_rax/snip_00.html)
 * [Virusshare.com](http://virusshare.com/)
 * [Contagio](http://contagiodump.blogspot.com/)
 * [Malware-Traffic-Analysis](https://malware-traffic-analysis.com/)
@@ -83,6 +84,8 @@ A curated list of awesome reversing resources
 * [Malware Blacklist](http://www.malwareblacklist.com/showMDL.php)
 * [malwr.com](https://malwr.com/)
 * [vxvault](http://vxvault.net/)
+* [Reversing.kr](http://reversing.kr/)
+* [Reverse Engineering challenges](https://challenges.re/)
 
 ## Hex Editors
 
@@ -121,6 +124,7 @@ A curated list of awesome reversing resources
 * [Capstone](http://www.capstone-engine.org/)
 * [objdump](http://linux.die.net/man/1/objdump)
 * [fREedom](https://github.com/cseagle/fREedom)
+* [JEB Decompiler](https://www.pnfsoftware.com/)
 
 ## Binary Analysis
 
@@ -225,6 +229,7 @@ A curated list of awesome reversing resources
 
 *Android tools*
 
+* [JEB Decompiler](https://www.pnfsoftware.com/)
 * [Android Studio](http://developer.android.com/sdk/index.html)
 * [APKtool](http://ibotpeaches.github.io/Apktool/)
 * [dex2jar](https://github.com/pxb1988/dex2jar)
