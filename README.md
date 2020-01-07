@@ -143,6 +143,8 @@ A curated list of awesome reversing resources
 * [Bytecode Viewer](https://bytecodeviewer.com/)
 * [Bytecode Visualizer](http://www.drgarbage.com/bytecode-visualizer/)
 * [JPEXS Flash Decompiler](https://www.free-decompiler.com/flash/)
+* [MCSEMA](https://github.com/lifting-bits/mcsema)
+* [Remill](https://github.com/lifting-bits/remill)
 
 ## Import Reconstruction
 
@@ -245,6 +247,12 @@ A curated list of awesome reversing resources
 * [Cheatsheet](https://gist.github.com/0xtyh/eeabc765e9befad9b80a)
 * [yarGen](https://github.com/Neo23x0/yarGen)
 * [Yara First Presentation](https://www.first.org/resources/papers/conference2014/first_2014_-_schuster-_andreas_-_yara_basic_and_advanced_20140619.pdf)
+
+## Sites
+
+* [StackExchange - ReverseEngineering](http://reverseengineering.stackexchange.com/)
+* [Reddit - ReverseEngineering](https://www.reddit.com/r/ReverseEngineering/)
+* [Reddit - REMath](https://www.reddit.com/r/REMath/)
 
 Please have a look at
 * [Top Hacking Books](http://www.kalitut.com/2016/12/best-ethical-hacking-books.html)
