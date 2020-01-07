@@ -79,7 +79,6 @@ A curated list of awesome reversing resources
 * [xorpd Advanced Assembly Exercises](https://www.xorpd.net/pages/xchg_rax/snip_00.html)
 * [Virusshare.com](http://virusshare.com/)
 * [Contagio](http://contagiodump.blogspot.com/)
-* [Malware-Traffic-Analysis](https://malware-traffic-analysis.com/)
 * [Malshare](http://malshare.com/)
 * [Malware Blacklist](http://www.malwareblacklist.com/showMDL.php)
 * [malwr.com](https://malwr.com/)
