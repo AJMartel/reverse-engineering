@@ -125,6 +125,7 @@ A curated list of awesome reversing resources
 * [objdump](http://linux.die.net/man/1/objdump)
 * [fREedom](https://github.com/cseagle/fREedom)
 * [JEB Decompiler](https://www.pnfsoftware.com/)
+* [Panopticon](https://gitlab.com/p8n/panopticon)
 
 ## Binary Analysis
 
